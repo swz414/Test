@@ -2,7 +2,7 @@
 using namespace std;
 
 int bitManipulation2(int n, int i) {
-	return (-1 << (32 - i)) ^ n;
+	return (-1 << (32 - i))
 }
 
 int main() {
